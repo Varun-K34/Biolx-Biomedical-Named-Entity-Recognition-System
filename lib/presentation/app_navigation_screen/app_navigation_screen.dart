@@ -1,5 +1,7 @@
+import 'package:Biolx/core/utils/size_utils.dart';
+import 'package:Biolx/routes/app_routes.dart';
 import 'package:flutter/material.dart';
-import 'package:varun_s_application27/core/app_export.dart';
+
 
 class AppNavigationScreen extends StatelessWidget {
   const AppNavigationScreen({Key? key})

@@ -1,9 +1,9 @@
-export 'package:varun_s_application27/core/utils/image_constant.dart';
-export 'package:varun_s_application27/core/utils/size_utils.dart';
-export 'package:varun_s_application27/routes/app_routes.dart';
-export 'package:varun_s_application27/theme/app_decoration.dart';
-export 'package:varun_s_application27/theme/custom_text_style.dart';
-export 'package:varun_s_application27/theme/theme_helper.dart';
-export 'package:varun_s_application27/widgets/custom_image_view.dart';
+export 'package:Biolx/core/utils/image_constant.dart';
+export 'package:Biolx/core/utils/size_utils.dart';
+export 'package:Biolx/routes/app_routes.dart';
+export 'package:Biolx/theme/app_decoration.dart';
+export 'package:Biolx/theme/custom_text_style.dart';
+export 'package:Biolx/theme/theme_helper.dart';
+export 'package:Biolx/widgets/custom_image_view.dart';
 export '../theme/custom_button_style.dart';
-export 'package:varun_s_application27/core/utils/date_time_utils.dart';
+export 'package:Biolx/core/utils/date_time_utils.dart';

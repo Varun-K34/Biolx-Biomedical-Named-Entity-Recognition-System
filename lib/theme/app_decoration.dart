@@ -1,5 +1,7 @@
+import 'package:Biolx/core/utils/size_utils.dart';
+import 'package:Biolx/theme/theme_helper.dart';
 import 'package:flutter/material.dart';
-import 'package:varun_s_application27/core/app_export.dart';
+
 
 class AppDecoration {
   // Gradient decorations

@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 // import 'package:flutter/scheduler.dart';
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
       builder: (context, orientation, deviceType) {
         return MaterialApp(
           theme: theme,
-          title: 'varun_s_application27',
+          title: 'Biolx',
           debugShowCheckedModeBanner: false,
           initialRoute: AppRoutes.splashScreen,
           routes: AppRoutes.routes,
