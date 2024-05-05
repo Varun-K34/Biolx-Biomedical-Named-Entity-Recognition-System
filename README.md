@@ -1,5 +1,17 @@
 
-# varun_s_application27
+# Biolx
+
+### **UI**
+
+![Splash](https://github.com/Varun-K34/Biolx-Biomedical-Named-Entity-Recognition-System/assets/85250850/6c28dc36-fce0-473a-b362-7c53bcf63d05)
+![Home_Screen](https://github.com/Varun-K34/Biolx-Biomedical-Named-Entity-Recognition-System/assets/85250850/72e8dbc8-42ca-41fb-adf7-fe6e6a8916f0)
+![Display_Screen1](https://github.com/Varun-K34/Biolx-Biomedical-Named-Entity-Recognition-System/assets/85250850/b3d67286-145c-42b8-8468-d1a038c4b198)
+![Display_Screen2](https://github.com/Varun-K34/Biolx-Biomedical-Named-Entity-Recognition-System/assets/85250850/4b1aaf08-7e72-439f-8891-cd7899bb726e)
+
+
+
+
+
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
